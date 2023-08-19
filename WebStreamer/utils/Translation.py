@@ -18,7 +18,8 @@ class Language(object):
 <i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
-<b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n"""
+<b>🔞 Pᴏʀɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n
+<i><u>𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙈𝙤𝙝𝙖𝙣𝙞𝙨𝙝𝙓⚡</u></i>"""
 
         HELP_TEXT = """
 <i>- Sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.</i>
@@ -26,12 +27,12 @@ class Language(object):
 <i>- ᴅᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>
 <u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u>\n
 <b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n
-<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/{}'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
+<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/Mohanish7777777'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : Public Link Generator</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : 3.0.3.1</b>\n
-<b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 18-Feb-22 ] 12:36 AM</b>
+<b>⚜ Mʏ ɴᴀᴍᴇ : MohanishX Link Generator Bot</b>\n
+<b>🔸Vᴇʀꜱɪᴏɴ : 1.7.2</b>\n
+<b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 18-Feb-23 ] 12:36 AM</b>
 """
 
         stream_msg_text ="""
@@ -39,7 +40,10 @@ class Language(object):
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <i>{}</i>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
-<b>🖥WATCH :</b> <i>{}</i>"""
+<b>🖥WATCH :</b> <i>{}</i>\n
+<i><u>𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙈𝙤𝙝𝙖𝙣𝙞𝙨𝙝𝙓⚡</u></i>
+"""
+
 
     class Test(object):
         START_TEXT = """
@@ -47,7 +51,8 @@ class Language(object):
 <i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
-<b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n"""
+<b>🔞 Pᴏʀɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n
+<i><u>𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙈𝙤𝙝𝙖𝙣𝙞𝙨𝙝𝙓⚡</u></i>"""
 
 # ------------------------------------------------------------------------------
 
